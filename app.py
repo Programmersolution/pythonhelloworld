@@ -7,3 +7,8 @@ print('Hacktoberfest is the best')
 word1 = "Hello"
 word2 = "World"
 print(word1 + " " + word2)
+
+#String format() Method to Print Hello World
+varA = "Hello"
+varB = "World"
+print("{} {}".format(word1, word2))
